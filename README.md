@@ -14,21 +14,16 @@ If you want to delve deeper in understanding how to create your own (scrolling) 
 And here are the links you'll probably want to download if you are following this video:
 
 Maxmatrix library:
-https://db.tt/1ZhZmOfx
+You can find this right here in this GitHub
 
 Above library MAY be the same as this one here in Github:
 https://github.com/riyas-org/max7219
 
 Sketch Demo code:
-https://db.tt/1igNeIYe
-
 And the All_Letters demo sketch is here:
-https://www.dropbox.com/sh/ji2r9haem9... 
+You can find these right here in this GitHub
 
-Enjoy! Anything unclear? Leave a comment below.
-
-
-As always, Thanks For Watching - and spread the word so my subscriber numbers start increasing!
+As always, Thanks For Watching
 
 And my channel is here:
 https://www.youtube.com/c/RalphBacon 
